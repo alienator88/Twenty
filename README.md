@@ -1,3 +1,5 @@
-# 20
+# Twenty
 
-https://alienator88.github.io/20/
+Reminder to get up every 20 minutes
+
+https://alienator88.github.io/Twenty/
